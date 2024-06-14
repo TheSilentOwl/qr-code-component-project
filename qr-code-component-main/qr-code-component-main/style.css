@@ -1,0 +1,40 @@
+body {
+    background-color: #D5E1EF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Outfit;
+}
+
+.qr-container {
+    margin: 25px;
+    padding: 15px;
+    border-radius: 20px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+}
+
+ img {
+    border-radius: 10px;
+    width: 250px;
+    height: 250px;
+    text-align: center;
+}
+
+.qr-description {
+    width: 250px;
+}
+h1 {
+    font-size: 1.3rem;
+    color: #1F314F;
+}
+
+p {
+    color: #7D889E;
+    font-size: 0.95rem;
+}
